@@ -9,6 +9,9 @@ the way to find out the total disposal is by means of the crystal yellow we inpu
 how to find out the total final crystal is by way of the total crystal minus the total disposal use  totalfinal_crystal=totalcrystal-total_disposal;
 how to display the final crystal total in output use cout<<totalfinal_crystal<<endl;
 Done!
+
+
+
 A.Fraction
 first, i input numerator integer, denominator integer, sum int use int numerator;int  denominator;int sum
 and I use srand because it controls how many loops use srand(time(0));
@@ -23,6 +26,10 @@ how to find out the numerator is by random number + 1 .why + 1 because, so it do
 how to find out the denominator is by random number +1. why +1 because,so it doesn't exist use numerator=rand()%sum+1;
 this is used to display the numerator and denominator output use cout << numerator << " " << denominator << endl;
 Done!
+
+
+
+
 A.Diverse Team
 the first way to enter the number of students is with cin >> students
 This is used to input students and clubs according to existing ratings and existing students
