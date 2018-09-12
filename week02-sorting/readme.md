@@ -61,7 +61,7 @@ And lastly I use the cout ‘p (pairs of secretary counter) 'to display the scre
 cout<<p<<endl;
 Done!
 
-https://codeforces.com/contest/291/submission/42759109
+
 
 #230A-Dragon
 In the matter of 230A Dragon, what is meant is to compare the strength of kirito and dragon.
@@ -115,7 +115,7 @@ else, it will print "NO"
 
 Done!
 
-https://codeforces.com/contest/230/submission/42759031
+
 
 #768A-A. Oath of the Night's Watch
 
@@ -155,4 +155,4 @@ And then we cout "h" then show it in output
 
 Done!
 
-https://codeforces.com/contest/768/submission/42759159
+
