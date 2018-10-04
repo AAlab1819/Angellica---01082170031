@@ -1,7 +1,6 @@
 # 115A - Party
 
-Untuk penyelesaian masalah ini, pertama-tama kita masukan jumlah karyawan (n). Setelah itu, kami memasukkan nomor dan menyimpannya dalam larik. Menggunakan fungsi yang kompleks, kami dapat menemukan jumlah grup optimal yang dibuat berdasarkan pada input (vis). Pada akhirnya, cetak masukan dan kode akan berhenti.
-
+To solve this problem, we first enter the number of employees (n). After that, we enter the number and save it in an array. Using complex functions, we can find the optimal number of groups based on input (vis). In the end, print input and code will stop.
 
     int n, tmp;
     cin >> n;
